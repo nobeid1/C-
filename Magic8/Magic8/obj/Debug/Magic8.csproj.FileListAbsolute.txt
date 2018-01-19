@@ -1,0 +1,7 @@
+C:\Users\NASIM-PC\source\repos\Magic8\Magic8\bin\Debug\Magic8.exe.config
+C:\Users\NASIM-PC\source\repos\Magic8\Magic8\bin\Debug\Magic8.exe
+C:\Users\NASIM-PC\source\repos\Magic8\Magic8\bin\Debug\Magic8.pdb
+C:\Users\NASIM-PC\source\repos\Magic8\Magic8\obj\Debug\Magic8.csprojResolveAssemblyReference.cache
+C:\Users\NASIM-PC\source\repos\Magic8\Magic8\obj\Debug\Magic8.csproj.CoreCompileInputs.cache
+C:\Users\NASIM-PC\source\repos\Magic8\Magic8\obj\Debug\Magic8.exe
+C:\Users\NASIM-PC\source\repos\Magic8\Magic8\obj\Debug\Magic8.pdb
